@@ -1,0 +1,20 @@
+{
+    "name": "ChaiScript",
+    "keywords": "chaiscript",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ChaiScript/ChaiScript.git"
+    },
+    "version": "f904cd5",
+    "export": {
+        "include": [
+            "include",
+            "static_libs"
+        ]
+    },
+    "frameworks": "*",
+    "platform": "*",
+    "build": {
+        "srcFilter": "-<*>"
+    }
+}
