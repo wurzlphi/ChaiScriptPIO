@@ -13,7 +13,7 @@
         ]
     },
     "frameworks": "*",
-    "platform": "*",
+    "platform": "espressif32",
     "build": {
         "srcFilter": "-<*>"
     }
